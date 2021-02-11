@@ -21,6 +21,8 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 3. Benteler Automotive Corp: 2500 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+
+336310- Motor Vehicle Gasoline Engine and Engine Parts Manufacturing: 629 businesses
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
