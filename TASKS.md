@@ -30,10 +30,10 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 
   1. Engineering
   
-    1. Research
-    2. Design
-    3. Prototyping
-    4. Product development
+    1. Research: Carry out a research in materials in order to find a sustainable one, as well as a research in the shape of the piece in order to find the most effective way to introduce it in the vehicles.
+    2. Design: Find a effec
+    3. Prototyping: Create pieces that can fit in every vehicle
+    4. Product development: Start producing the pieces
     
   2. Operations
   
@@ -43,6 +43,16 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
     4. Finishing and quality control
 ***
 * List of your company's support activities:
+
+##### Support activities
+
+    1. General management
+    2. Human resources management
+    3. Finance
+    4. Marketing
+    5. Export department
+  
+  
 ***
 
 ## Task 2
