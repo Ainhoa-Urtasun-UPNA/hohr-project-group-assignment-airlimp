@@ -25,6 +25,18 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 336310- Motor Vehicle Gasoline Engine and Engine Parts Manufacturing: 629 businesses
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
+
+1. Primary actuvities:
+  1. Engineering
+    1. Research
+    2. Design
+    3. Prototyping
+    4. Product development
+  2. Operations
+    1. Setting up tools and machines
+    2. Obtaining and handing inventory
+    3. Carrying out production and assembling word
+    4. Finishing and quality control
 ***
 * List of your company's support activities:
 ***
