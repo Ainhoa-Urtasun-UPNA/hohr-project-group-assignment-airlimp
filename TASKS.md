@@ -3,10 +3,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name: AirLIMP
+* Your company's name: **AirLIMP**
 *** 
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
-336310
+
+**336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing**
 
 This industry comprises establishments primarily engaged in (1) manufacturing and/or rebuilding motor vehicle gasoline engines and engine parts and/or (2) manufacturing and/or rebuilding carburetors, pistons, piston rings, and engine valves, whether or not for vehicular use.
 
