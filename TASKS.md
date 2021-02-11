@@ -31,8 +31,8 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
   1. Engineering
   
     1. Research: Carry out a research in materials in order to find a sustainable one, as well as a research in the shape of the piece in order to find the most effective way to introduce it in the vehicles.
-    2. Design: Find a effec
-    3. Prototyping: Create pieces that can fit in every vehicle
+    2. Design: Find a effective and universal design that can fit every vehicle
+    3. Prototyping: Create different types of pieces and look for the most complete one
     4. Product development: Start producing the pieces
     
   2. Operations
