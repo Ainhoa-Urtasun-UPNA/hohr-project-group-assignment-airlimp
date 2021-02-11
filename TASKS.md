@@ -13,6 +13,12 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+
+1. Plastic Omnium Auto Inergy LLC: 4000 employees
+
+2. Keihin North America Inc: 4591 employees
+
+3. Benteler Automotive Corp: 2500 employees
 ***
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 ***
