@@ -37,7 +37,7 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
     
   2. Operations
   
-    1. Setting up tools and machines
+    1. Setting up tools and machines: 3D printing
     2. Obtaining and handing inventory
     3. Carrying out production and assembling word
     4. Finishing and quality control
@@ -46,10 +46,10 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 
 ##### Support activities
 
-    1. General management
-    2. Human resources management
-    3. Finance
-    4. Marketing
+    1. General management: Make timing and tasks decisions
+    2. Human resources management: Planning, recruitment, training, performance evaluation and compensating employees
+    3. Finance: Look for funds, calculate the budget, provide projections on the investment return
+    4. Marketing: B2B
     5. Export department
   
   
