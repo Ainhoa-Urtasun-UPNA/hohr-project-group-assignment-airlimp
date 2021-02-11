@@ -11,7 +11,6 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 
 This industry comprises establishments primarily engaged in (1) manufacturing and/or rebuilding motor vehicle gasoline engines and engine parts and/or (2) manufacturing and/or rebuilding carburetors, pistons, piston rings, and engine valves, whether or not for vehicular use.
 
-*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 ***
