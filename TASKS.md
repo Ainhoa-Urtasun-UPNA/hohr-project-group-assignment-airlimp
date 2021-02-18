@@ -4,6 +4,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Objective: analyze your industry and decide your primary and support activities
 ***
 * Your company's name: **AirLIMP**
+
+Our primary activity consist on producing an enginee part for motor vehicles in order to transform the air into a cleaner one to reduce pollution in the environment.
 *** 
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/): 
 
@@ -69,15 +71,50 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * Wages:
 * Top industry:
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title:17-2141.00 - Mechanical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+
+- (87) Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
+
+- (84) Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task.
+
+- (79) Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task.
+
+- (75) Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task.
+
+- (75) Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
+
+
+* Is this job routine? Your judgment (0-10): 7
+* Is this job cognitive? Your judgment (0-10): 7
 * 5 most important skills they require to possess (provide the importance score, in Details):
+
+- (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+
+- (72) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
+ 	
+- (72) Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
+  	
+- (72) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+
+- (72) Science — Using scientific rules and methods to solve problems.
+
+
 * 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+- Analytical or scientific software.
+
+- Computer aided design CAD software Hot technology.
+
+- Computer aided manufacturing CAM software. 
+
+- Configuration management software.
+
+- Data base user interface and query software.
+
+
+* Education: Bachelor's degree
+* Wages: $42.51 hourly, $88,430 annual
+* Top industry: Manufacturing (48% employed in this sector). Professional, Scientific, and Technical Services (29%)
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
