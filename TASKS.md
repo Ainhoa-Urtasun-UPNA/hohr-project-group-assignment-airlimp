@@ -73,8 +73,8 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
     - (73) Prepare staff work schedules and assign specific duties.See more occupations related to this task.
 
     - (72) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
-* Is this job routine? Your judgment (0-10): 3
-* Is this job cognitive? Your judgment (0-10): 9
+* Is this job routine? Your judgment (0-10): 3 - Managers are continously changing their tasks, since they have to manage a lot of different fields in the company, and therefore they need to adapt to each situation. Their position does not require following rules or specific instructions. 
+* Is this job cognitive? Your judgment (0-10): 9 - As mentioned above, their main function is to take decisions and control the company, therefore they have to adapt to problems that may arise and not to specific rules. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
     - (75) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
@@ -115,8 +115,8 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
     - (75) Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
 
 
-* Is this job routine? Your judgment (0-10): 7
-* Is this job cognitive? Your judgment (0-10): 7
+* Is this job routine? Your judgment (0-10): 7 -  However, in the production process they have a more routine job that consists on following rules and instructions. 
+* Is this job cognitive? Your judgment (0-10): 7 - They think about the design of the products as well as making improvements and solve technical problems.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
     - (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
@@ -157,8 +157,8 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
     - (85) Set and verify parts clearances.See more occupations related to this task.
 
     - (85) Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
-* Is this job routine? Your judgment (0-10): 9
-* Is this job cognitive? Your judgment (0-10): 3
+* Is this job routine? Your judgment (0-10): 9 - Their job is the most routine one, as operators are in the assembly part of the production process. They are performing the same task every day. 
+* Is this job cognitive? Your judgment (0-10): 3 - Despite being a routine job, they also verify parts and inspect products and machines. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
     - (60) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
 
