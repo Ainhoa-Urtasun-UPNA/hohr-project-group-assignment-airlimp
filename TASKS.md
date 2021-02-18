@@ -146,15 +146,38 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * Wages: $42.51 hourly, $88,430 annual
 * Top industry: Manufacturing (48% employed in this sector). Professional, Scientific, and Technical Services (29%)
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 51-2031.00 - Engine and Other Machine Assemblers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+    - (91) Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.See more occupations related to this task.
+
+    - (87) Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.See more occupations related to         this task.
+
+    - (86) Position or align components for assembly, manually or using hoists.See more occupations related to this task.
+
+    - (85) Set and verify parts clearances.See more occupations related to this task.
+
+    - (85) Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
+* Is this job routine? Your judgment (0-10): 9
+* Is this job cognitive? Your judgment (0-10): 3
 * 5 most important skills they require to possess (provide the importance score, in Details):
+    - (60) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
+
+    - (53) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.See more occupations related to           this skill.
+
+    - (53) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+
+    - (50) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
+
+    - (50) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
 * 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+    - Computer aided design CAD software Hot technology 
+    - Data base user interface and query software 
+    - Office suite software
+    - Spreadsheet software 
+    - Word processing software 
+* Education: High school diploma or equivalent
+* Wages: $21.95 hourly, $45,660 annual
+* Top industry: Manufacturing (91% employed in this sector)
 ***
 
 ## Task 3
