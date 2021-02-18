@@ -61,15 +61,45 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
+
+    - (77) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost             reduction or program improvement.See more occupations related to this task.
+
+    - (76) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related       to this task.
+
+    - (75) Direct administrative activities directly related to making products or providing services.See more occupations related to this task.
+
+    - (73) Prepare staff work schedules and assign specific duties.See more occupations related to this task.
+
+    - (72) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
+* Is this job routine? Your judgment (0-10): 3
+* Is this job cognitive? Your judgment (0-10): 9
 * 5 most important skills they require to possess (provide the importance score, in Details):
+
+    - (75) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
+
+    - (75) Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+
+    - (75) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations           related to this skill.
+
+    - (75) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
+
+    - (75) Speaking — Talking to others to convey information effectively.
 * 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+
+    - Accounting software 
+
+    - Analytical or scientific software 
+
+    - Business intelligence and data analysis software 
+
+    - Customer relationship management CRM software 
+
+    - Data base user interface and query software
+* Education: Bachelor's degree or Some college, no degree
+* Wages: 	$48.45 hourly, $100,780 annual
+* Top industry: Retail Trade (12% employed in this sector) and Professional, Scientific, and Technical Services (11%)
 ### Engineers
 * ONET-SOC code and title:17-2141.00 - Mechanical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
@@ -89,27 +119,27 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * Is this job cognitive? Your judgment (0-10): 7
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-- (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
+    - (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
 
-- (72) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more occupations related to this skill.
- 	
-- (72) Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
-  	
-- (72) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+    - (72) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more             occupations related to this skill.
 
-- (72) Science — Using scientific rules and methods to solve problems.
+    - (72) Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
+
+    - (72) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+
+    - (72) Science — Using scientific rules and methods to solve problems.
 
 
 * 5 technology skills
-- Analytical or scientific software.
+    - Analytical or scientific software.
 
-- Computer aided design CAD software Hot technology.
+    - Computer aided design CAD software Hot technology.
 
-- Computer aided manufacturing CAM software. 
+    - Computer aided manufacturing CAM software. 
 
-- Configuration management software.
+    - Configuration management software.
 
-- Data base user interface and query software.
+    - Data base user interface and query software.
 
 
 * Education: Bachelor's degree
