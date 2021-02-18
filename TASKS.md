@@ -74,15 +74,15 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * ONET-SOC code and title:17-2141.00 - Mechanical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 
-- (87) Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
+    - (87) Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
 
-- (84) Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task.
+    - (84) Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to         this task.
 
-- (79) Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task.
+    - (79) Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related       to this task.
 
-- (75) Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more occupations related to this task.
+    - (75) Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more               occupations related to this task.
 
-- (75) Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
+    - (75) Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
 
 
 * Is this job routine? Your judgment (0-10): 7
