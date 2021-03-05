@@ -186,10 +186,10 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
 
- We have introduced the following data in payton in order to predict the number of available workers in our firm next year.In the present we are 4 workers on the firm, 2 managers, 1 engineer and 1 operator. 
+In the present we are 4 workers on the firm, 2 managers, 1 engineer and 1 operator.  We are planning to hire workers  next year, so we need to predict the number of available workers in different occupations. In order to do so we used matrix multiplications. We have introduced the following data in payton. The matrix calculation is a bit complex, we need to take care of the order we dispose the numbers. 
  
  
-    D = numpy.array([[15,0,0],[0,20,0],[0,0,50]])
+    D = numpy.array([[15,0,0],[0,20,0],[0,0,50]]) 
 
     M = numpy.array([[5,2,0],[0,10,0],[5,5,45]])
 
@@ -198,11 +198,11 @@ You plan to start hiring workers next year. During this very first year, you are
 
 The obtained results are the following: 
 
-    0.76666667
+    0.76666667 - Managers
 
-    0.5 
+    0.5 - Engineers
 
-    1.81666667
+    1.81666667 - Operators
 
 
 As we are dealing with people, we need to round the numbers to integers. Therefore, the predicted number of managers is 1, 1 for engineers and 2 for operators. 
