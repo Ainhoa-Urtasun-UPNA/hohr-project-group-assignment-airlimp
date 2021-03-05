@@ -189,20 +189,20 @@ You plan to start hiring workers next year. During this very first year, you are
  We have introduced the following data in payton in order to predict the number of available workers in our firm next year.In the present we are 4 workers on the firm, 2 managers, 1 engineer and 1 operator. 
  
  
-D = numpy.array([[15,0,0],[0,20,0],[0,0,50]])
+    D = numpy.array([[15,0,0],[0,20,0],[0,0,50]])
 
-M = numpy.array([[5,2,0],[0,10,0],[5,5,45]])
+    M = numpy.array([[5,2,0],[0,10,0],[5,5,45]])
 
-b = numpy.array([[2],[1],[1]])
+    b = numpy.array([[2],[1],[1]])
 
 
 The obtained results are the following: 
 
-0.76666667
+    0.76666667
 
-0.5 
+    0.5 
 
-1.81666667
+    1.81666667
 
 
 As we are dealing with people, we need to round the numbers to integers. Therefore, the predicted number of managers is 1, 1 for engineers and 2 for operators. 
