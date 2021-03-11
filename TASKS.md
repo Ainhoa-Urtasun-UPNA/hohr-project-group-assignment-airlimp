@@ -215,6 +215,28 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
 
+In the last task we predicted the number of available workers in a year from now in our company. Today we are forecasting the firm's demand for workers and for that we follow a two-step process. Firstly, we estimate the coefficients by applying OLS regression. We have done so by using python (matrices). Secondly, we used those coefficients into the linear model to make the predictions.
+
+The obtained results are the following:
+
+    4.3333 - Managers
+    
+    12.45  - Engineers
+    
+    14.04 - Operators
+
+As we are dealing with poeple, we have to round the numbers obtained to integers. Therefore, the predicted number of managers is 4, of engineers is 12 and of operators is 7.
+
+Finally, we compare the predicted available workers with the predicted need for workers to detect mismatches. There is a shortage of 3 managers, a shortage of 11 engineers and a shortage of 5 operators. 
+
+As the number of available workers is smaller than the demand, we should take an upsizing strategy to prevent these potential labor mismatches. As the difference is quite high, we should follow a strategy that is more radical, that would produce changes in the organization. We propose hiring these workers so that they become a part of the team. 
+
+
+
+
+
+
+
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
