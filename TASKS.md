@@ -242,7 +242,7 @@ As the number of available workers is smaller than the demand, we should take an
 ***
 ### Job posting for Managers:
 
-    Job Title:
+    ****Job Title****:
     Occupation: 11-1021.00 - General and Operations Managers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
