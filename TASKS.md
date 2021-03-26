@@ -242,41 +242,46 @@ As the number of available workers is smaller than the demand, we should take an
 ***
 ### Job posting for Managers:
 
-    Job Title:
-    Occupation:
-    Industry:
-    List of tasks:
-    List of skills:
-    Required credentials and years of experience:
-    Job type:
-    Location:
-    Salary, benefits and perks:
+    **Job Title**:
+    **Occupation**: 11-1021.00 - General and Operations Managers
+    **Industry**: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+    **List of tasks**:
+    - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost                   reduction or program improvement.See more occupations related to this task.
+    - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related             to this task.
+    - Direct administrative activities directly related to making products or providing services.See more occupations related to this task.
+    - Prepare staff work schedules and assign specific duties.See more occupations related to this task.
+    - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
+    **List of skills**:
+    **Required credentials and years of experience**:
+    **Job type**:
+    **Location**: on remote
+    **Salary, benefits and perks**:
     
 ### Job posting for Engineers:
 
     Job Title:
-    Occupation:
-    Industry:
+    Occupation: 17-2141.00 - Mechanical Engineers
+    Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
     List of skills:
     Required credentials and years of experience:
     Job type:
-    Location:
+    Location: on remote
     Salary, benefits and perks:
     
 ### Job posting for Operators:
 
     Job Title:
-    Occupation:
-    Industry:
+    Occupation: 51-2031.00 - Engine and Other Machine Assemblers
+    Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
     List of skills:
     Required credentials and years of experience:
     Job type:
-    Location:
+    Location: on remote
     Salary, benefits and perks:
 
-
+Why x job vacancies?
 ***
 
 ## Task 6
