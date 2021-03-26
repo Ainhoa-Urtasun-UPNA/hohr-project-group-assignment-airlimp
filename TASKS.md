@@ -241,8 +241,42 @@ As the number of available workers is smaller than the demand, we should take an
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+
+    Job Title:
+    Occupation:
+    Industry:
+    List of tasks:
+    List of skills:
+    Required credentials and years of experience:
+    Job type:
+    Location:
+    Salary, benefits and perks:
+    
 ### Job posting for Engineers:
+
+    Job Title:
+    Occupation:
+    Industry:
+    List of tasks:
+    List of skills:
+    Required credentials and years of experience:
+    Job type:
+    Location:
+    Salary, benefits and perks:
+    
 ### Job posting for Operators:
+
+    Job Title:
+    Occupation:
+    Industry:
+    List of tasks:
+    List of skills:
+    Required credentials and years of experience:
+    Job type:
+    Location:
+    Salary, benefits and perks:
+
+
 ***
 
 ## Task 6
