@@ -242,20 +242,25 @@ As the number of available workers is smaller than the demand, we should take an
 ***
 ### Job posting for Managers:
 
-    **Job Title**:
-    **Occupation**: 11-1021.00 - General and Operations Managers
-    **Industry**: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
-    **List of tasks**:
+    Job Title:
+    Occupation: 11-1021.00 - General and Operations Managers
+    Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+    List of tasks:
     - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost                   reduction or program improvement.See more occupations related to this task.
     - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related             to this task.
     - Direct administrative activities directly related to making products or providing services.See more occupations related to this task.
     - Prepare staff work schedules and assign specific duties.See more occupations related to this task.
     - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
-    **List of skills**:
-    **Required credentials and years of experience**:
-    **Job type**:
-    **Location**: on remote
-    **Salary, benefits and perks**:
+    List of skills:
+    -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not              interrupting at inappropriate times.See more occupations related to this skill.
+    -Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+    -Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations                related to this skill.
+    -Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
+    -Speaking — Talking to others to convey information effectively.
+    Required credentials and years of experience:
+    Job type:
+    Location: on remote
+    Salary, benefits and perks:
     
 ### Job posting for Engineers:
 
@@ -263,7 +268,17 @@ As the number of available workers is smaller than the demand, we should take an
     Occupation: 17-2141.00 - Mechanical Engineers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
+    -Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
+    -Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to              this task.
+    -Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related            to this task.
+    -Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more                    occupations related to this task.
+    -Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
     List of skills:
+    -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not              interrupting at inappropriate times.See more occupations related to this skill.
+    -Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more                  occupations related to this skill.
+    -Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
+    -Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+    -Science — Using scientific rules and methods to solve problems.
     Required credentials and years of experience:
     Job type:
     Location: on remote
@@ -275,13 +290,24 @@ As the number of available workers is smaller than the demand, we should take an
     Occupation: 51-2031.00 - Engine and Other Machine Assemblers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
+    -Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.See more occupations related to this task.
+    -Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.See more occupations related to              this task.
+    -Position or align components for assembly, manually or using hoists.See more occupations related to this task.
+    -Set and verify parts clearances.See more occupations related to this task.
+    -Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
     List of skills:
+    -Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
+    -Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.See more occupations related to                this skill.
+    -Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+    -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not              interrupting at inappropriate times.See more occupations related to this skill.
+    -Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
     Required credentials and years of experience:
     Job type:
     Location: on remote
     Salary, benefits and perks:
 
 Why x job vacancies?
+
 ***
 
 ## Task 6
