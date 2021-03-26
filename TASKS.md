@@ -285,7 +285,7 @@ According to skillscape, managers do not show a high risk of automation (16%). T
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
-      -Salary: 57.180$
+      -Salary: 65.000$
       -Benefits:
       -Perks:
 
@@ -293,7 +293,7 @@ According to skillscape, engineers do not show a high risk of automation (38%). 
 
 ### Job posting for Operators:
 
-    Job Title:
+    Job Title: Engine and Other Machine Assemblers
     Occupation: 51-2031.00 - Engine and Other Machine Assemblers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
@@ -312,7 +312,7 @@ According to skillscape, engineers do not show a high risk of automation (38%). 
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
-      -Salary:
+      -Salary: 45.660$
       -Benefits:
       -Perks:
 
