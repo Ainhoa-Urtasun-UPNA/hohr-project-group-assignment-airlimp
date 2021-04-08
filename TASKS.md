@@ -64,26 +64,26 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * ONET-SOC code and title: 11-1021.00 - General and Operations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 
-    - (77) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost             reduction or program improvement.See more occupations related to this task.
+    - (77) Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost             reduction or program improvement.
 
-    - (76) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related       to this task.
+    - (76) Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
 
-    - (75) Direct administrative activities directly related to making products or providing services.See more occupations related to this task.
+    - (75) Direct administrative activities directly related to making products or providing services.
 
-    - (73) Prepare staff work schedules and assign specific duties.See more occupations related to this task.
+    - (73) Prepare staff work schedules and assign specific duties.
 
     - (72) Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
 * Is this job routine? Your judgment (0-10): 3 - Managers are continously changing their tasks, since they have to manage a lot of different fields in the company, and therefore they need to adapt to each situation. Their position does not require following rules or specific instructions. 
 * Is this job cognitive? Your judgment (0-10): 9 - As mentioned above, their main function is to take decisions and control the company, therefore they have to adapt to problems that may arise and not to specific rules. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-    - (75) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
+    - (75) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.
 
-    - (75) Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
+    - (75) Coordination — Adjusting actions in relation to others' actions.
 
-    - (75) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations           related to this skill.
+    - (75) Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
 
-    - (75) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
+    - (75) Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.
 
     - (75) Speaking — Talking to others to convey information effectively.
 * 5 technology skills:
@@ -104,13 +104,13 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * ONET-SOC code and title:17-2141.00 - Mechanical Engineers
 * 5 most important tasks they carry out (provide the importance score, in Details):
 
-    - (87) Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
+    - (87) Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.
 
-    - (84) Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to         this task.
+    - (84) Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.
 
-    - (79) Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related       to this task.
+    - (79) Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.
 
-    - (75) Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.See more               occupations related to this task.
+    - (75) Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.
 
     - (75) Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
 
@@ -119,14 +119,14 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 * Is this job cognitive? Your judgment (0-10): 7 - They think about the design of the products as well as making improvements and solve technical problems.
 * 5 most important skills they require to possess (provide the importance score, in Details):
 
-    - (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
+    - (72) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.
 
-    - (72) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.See more             occupations related to this skill.
+    - (72) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
+    
+    - (72) Mathematics — Using mathematics to solve problems.
 
-    - (72) Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
-
-    - (72) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
-
+    - (72) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
+    
     - (72) Science — Using scientific rules and methods to solve problems.
 
 
@@ -148,25 +148,25 @@ This industry comprises establishments primarily engaged in (1) manufacturing an
 ### Operators
 * ONET-SOC code and title: 51-2031.00 - Engine and Other Machine Assemblers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-    - (91) Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.See more occupations related to this task.
+    - (91) Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.
+    
+    - (87) Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.
 
-    - (87) Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.See more occupations related to         this task.
+    - (86) Position or align components for assembly, manually or using hoists.
 
-    - (86) Position or align components for assembly, manually or using hoists.See more occupations related to this task.
-
-    - (85) Set and verify parts clearances.See more occupations related to this task.
+    - (85) Set and verify parts clearances.
 
     - (85) Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
 * Is this job routine? Your judgment (0-10): 9 - Their job is the most routine one, as operators are in the assembly part of the production process. They are performing the same task every day. 
 * Is this job cognitive? Your judgment (0-10): 3 - Despite being a routine job, they also verify parts and inspect products and machines. 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-    - (60) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
+    - (60) Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.
 
-    - (53) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.See more occupations related to           this skill.
+    - (53) Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance.
 
-    - (53) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
+    - (53) Reading Comprehension — Understanding written sentences and paragraphs in work related documents.
 
-    - (50) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.See more occupations related to this skill.
+    - (50) Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not         interrupting at inappropriate times.
 
     - (50) Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
 * 5 technology skills:
@@ -243,24 +243,23 @@ As the number of available workers is smaller than the demand, we should take an
     Occupation: 11-1021.00 - General and Operations Managers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
-      - Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.See more occupations related to this task.
-      - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.See more occupations related to this task.
-      - Direct administrative activities directly related to making products or providing services.See more occupations related to this task.
-      - Prepare staff work schedules and assign specific duties.See more occupations related to this task.
+      - Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.
+      - Direct administrative activities directly related to making products or providing services.
+      - Prepare staff work schedules and assign specific duties.
       - Monitor suppliers to ensure that they efficiently and effectively provide needed goods or services within budgetary limits.
     List of skills:
-      -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-      -Coordination — Adjusting actions in relation to others' actions.See more occupations related to this skill.
-      -Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.See more occupations related to this skill.
-      -Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do.See more occupations related to this skill.
-      -Speaking — Talking to others to convey information effectively.
+      -Active Listening 
+      -Coordination 
+      -Monitoring 
+      -Social Perceptiveness
+      -Speaking 
     Required credentials and years of experience:
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
       -Salary: 122.100$
-      -Benefits:
-      -Perks:
+      -Benefits: Health insurance and holidays
+      -Perks: Childcare assistance and performance bonus
   
 According to skillscape, managers do not show a high risk of automation (16%). Therefore, and taking into account our predictions, we are offering 3 vacancies for this job position (Availability = 1 and Demand = 4). There is a need of taking an upsizing strategy in order to avoid a missmacht. 
 
@@ -270,24 +269,24 @@ According to skillscape, managers do not show a high risk of automation (16%). T
     Occupation: 17-2141.00 - Mechanical Engineers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
-      -Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.See more occupations related to this task.
-      -Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.See more occupations related to this task.
-      -Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.See more occupations related to this task.
+      -Read and interpret blueprints, technical drawings, schematics, or computer-generated reports.
+      -Research, design, evaluate, install, operate, or maintain mechanical products, equipment, systems or processes to meet requirements.
+      -Confer with engineers or other personnel to implement operating procedures, resolve system malfunctions, or provide technical information.
       -Develop, coordinate, or monitor all aspects of production, including selection of manufacturing methods, fabrication, or operation of product designs.
       -Investigate equipment failures or difficulties to diagnose faulty operation and recommend remedial actions.
     List of skills:
-      -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.See more occupations related to this skill.
-      -Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-      -Mathematics — Using mathematics to solve problems.See more occupations related to this skill.
-      -Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
-      -Science — Using scientific rules and methods to solve problems.
+      -Active Listening 
+      -Critical Thinking
+      -Mathematics
+      -Reading Comprehension 
+      -Science 
     Required credentials and years of experience:
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
       -Salary: 65.000$
-      -Benefits:
-      -Perks:
+      -Benefits:  Health insurance and holidays
+      -Perks: Employee appreciation programs and childcare assistance
 
 According to skillscape, engineers do not show a high risk of automation (38%). Therefore, and taking into account our predictions, we are offering 8 vacancies for this job position (Availability = 1 and Demand = 12). There is a need of taking an upsizing strategy in order to avoid a missmacht. However, we see that the automation risk is a bit higher for this position and therefore, we are not going to hire at first all teh necessary workers to fill the demand. 
 
@@ -297,24 +296,23 @@ According to skillscape, engineers do not show a high risk of automation (38%). 
     Occupation: 51-2031.00 - Engine and Other Machine Assemblers
     Industry: 336310: Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
     List of tasks:
-      -Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.See more occupations related to this task.
-      -Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.See more occupations related to this task.
-      -Position or align components for assembly, manually or using hoists.See more occupations related to this task.
-      -Set and verify parts clearances.See more occupations related to this task.
+      -Read and interpret assembly blueprints or specifications manuals, and plan assembly or building operations.
+      -Inspect, operate, and test completed products to verify functioning, machine capabilities, or conformance to customer specifications.
+      -Position or align components for assembly, manually or using hoists.
+      -Set and verify parts clearances.
       -Verify conformance of parts to stock lists or blueprints, using measuring instruments such as calipers, gauges, or micrometers.
     List of skills:
-      -Operation Monitoring — Watching gauges, dials, or other indicators to make sure a machine is working properly.See more occupations related to this skill.
-      -Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. 
-      -Reading Comprehension — Understanding written sentences and paragraphs in work related documents.See more occupations related to this skill.
-      -Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.
-      -Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-    Required credentials and years of experience:
+      -Operation Monitoring 
+      -Quality Control Analysis 
+      -Reading Comprehension
+      -Active Listening 
+      -Critical Thinking
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
       -Salary: 45.660$
-      -Benefits:
-      -Perks:
+      -Benefits:  Health insurance and holidays
+      -Perks: Childcare assistance and flextime (multiple shifts available)
 
 According to skillscape, operators show a high risk of automation (82%). Therefore, and taking into account our predictions, we are offering 2 vacancies for this job position (Availability = 2 and Demand = 7). There is a need of taking an upsizing strategy in order to avoid a missmacht. However, we see that the automation risk is quite high for this position and therefore, we are not going to hire at first all the necessary workers to fill the demand.
 
