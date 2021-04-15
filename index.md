@@ -2,7 +2,7 @@
 
 ## **Working for a better environment**
 
-![8.png](8.png)
+![Location of the logo](8.png)
 
 ### _NAICS - 336310 - Motor Vehicle Gasoline Engine and Engine Parts Manufacturing_
 
