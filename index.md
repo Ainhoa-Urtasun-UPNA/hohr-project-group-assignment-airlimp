@@ -8,14 +8,6 @@ INSERTAR LOGO DE LA EMPRESA
 
 
 
-
-
-![plot 1.png](plot 1.png)
-
-
-
-
-
 INSERTAR IMAGEN DE PRODUCTION PROCESS
 
 ### ONET - Tasks & matched skills for Managers, Engineers & Operators
