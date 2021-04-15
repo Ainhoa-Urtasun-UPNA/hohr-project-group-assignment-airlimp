@@ -6,7 +6,7 @@ INSERTAR LOGO DE LA EMPRESA
 
 ![1.jpg](1.jpg)
 
-![plot 1.jpg](plot 1.jpg)
+![plot 1.png](plot 1.png)
 
 INSERTAR IMAGEN DE PRODUCTION PROCESS
 
