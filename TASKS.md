@@ -225,9 +225,9 @@ The obtained results are the following:
     
     14.04 - Operators
 
-As we are dealing with poeple, we have to round the numbers obtained to integers. Therefore, the predicted number of managers is 4, of engineers is 12 and of operators is 7.
+As we are dealing with poeple, we have to round the numbers obtained to integers. Therefore, the predicted number of managers is 4, of engineers is 12 and of operators is 14.
 
-Finally, we compare the predicted available workers with the predicted need for workers to detect mismatches. There is a shortage of 3 managers, a shortage of 11 engineers and a shortage of 5 operators. 
+Finally, we compare the predicted available workers with the predicted need for workers to detect mismatches. There is a shortage of 3 managers, a shortage of 11 engineers and a shortage of 12 operators. 
 
 As the number of available workers is smaller than the demand, we should take an upsizing strategy to prevent these potential labor mismatches. As the difference is quite high, we should follow a strategy that is more radical, that would produce changes in the organization. We propose hiring these workers so that they become a part of the team. 
 
@@ -314,7 +314,7 @@ According to skillscape, engineers do not show a high risk of automation (38%). 
       -Benefits:  Health insurance and holidays
       -Perks: Childcare assistance and flextime (multiple shifts available)
 
-According to skillscape, operators show a high risk of automation (82%). Therefore, and taking into account our predictions, we are offering 2 vacancies for this job position (Availability = 2 and Demand = 7). There is a need of taking an upsizing strategy in order to avoid a missmacht. However, we see that the automation risk is quite high for this position and therefore, we are not going to hire at first all the necessary workers to fill the demand.
+According to skillscape, operators show a high risk of automation (82%). Therefore, and taking into account our predictions, we are offering 4 vacancies for this job position (Availability = 2 and Demand = 14). There is a need of taking an upsizing strategy in order to avoid a missmacht. However, we see that the automation risk is quite high for this position and therefore, we are not going to hire at first all the necessary workers to fill the demand.
 
 ***
 
