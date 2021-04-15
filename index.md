@@ -4,11 +4,7 @@ INSERTAR LOGO DE LA EMPRESA
 
 ### _NAICS - 336310 - Motor Vehicle Gasoline Engine and Engine Parts Manufacturing_
 
-
-
-
-
-INSERTAR IMAGEN DE PRODUCTION PROCESS
+![7.png](7.png)
 
 ### ONET - Tasks & matched skills for Managers, Engineers & Operators
 
