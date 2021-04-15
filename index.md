@@ -21,7 +21,7 @@ INSERTAR LA TABLA - PARTE DE LEYRE
 
 ### JOB POSTINGS:
 
-![2.jpg](2.jpg)
+![2.jpeg](2.jpeg)
 
 
 
