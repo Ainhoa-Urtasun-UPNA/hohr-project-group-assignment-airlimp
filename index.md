@@ -16,7 +16,7 @@ INSERTAR IMAGEN DE PRODUCTION PROCESS
 - Firm's number of available workers
 - Firm's number of demand workers
 
-![5.jpeg](5.jpeg)
+![5.png](5.png)
 
 
 ### JOB POSTINGS:
