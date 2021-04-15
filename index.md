@@ -6,6 +6,14 @@
 
 
 
+```ONET - Tasks & matched skills for Managers, Engineers & Operators
+
+FORECASTING:
+- Firm's number of available workers
+- Firm's number of demand workers
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-airlimp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
