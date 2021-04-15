@@ -253,7 +253,7 @@ As the number of available workers is smaller than the demand, we should take an
       -Monitoring 
       -Social Perceptiveness
       -Speaking 
-    Required credentials and years of experience:
+    Required credentials and years of experience: Bachelor's degree and 2 years of experience. 
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
@@ -280,7 +280,7 @@ According to skillscape, managers do not show a high risk of automation (16%). T
       -Mathematics
       -Reading Comprehension 
       -Science 
-    Required credentials and years of experience:
+    Required credentials and years of experience: Bachelor's degree and 4 years of experience.
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
@@ -307,6 +307,7 @@ According to skillscape, engineers do not show a high risk of automation (38%). 
       -Reading Comprehension
       -Active Listening 
       -Critical Thinking
+    Required credentials and years of experience: No prior experience needed.
     Job type: full-time
     Location: on remote
     Salary, benefits and perks:
