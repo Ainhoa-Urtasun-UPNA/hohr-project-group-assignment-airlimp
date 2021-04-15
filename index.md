@@ -21,7 +21,7 @@ Firm's number of demand workers
 - Engineers: 12
 - Operators: 14
 
-![6.png](6.png)
+![11.png](11.png)
 
 
 ### JOB POSTINGS:
