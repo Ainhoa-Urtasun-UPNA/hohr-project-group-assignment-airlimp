@@ -4,7 +4,7 @@
 
 ![1.jpg](1.jpg)
 
-
+INSERTAR IMAGEN DE PRODUCTION PROCESS
 
 ### ONET - Tasks & matched skills for Managers, Engineers & Operators
 
@@ -12,12 +12,16 @@
 - Firm's number of available workers
 - Firm's number of demand workers
 
+INSERTAR LA TABLA - PARTE DE LEYRE
+
+
+### JOB POSTINGS:
+
+INSERTAR IMAGEN DE JOB POSTINGS 
 
 
 
-You can use the [editor on GitHub](https://github.com/Ainhoa-Urtasun-UPNA/hohr-project-group-assignment-airlimp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
