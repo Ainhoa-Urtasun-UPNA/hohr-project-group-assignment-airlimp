@@ -26,7 +26,7 @@ Firm's number of demand workers
 
 ### JOB POSTINGS:
 
-![10.jpeg](10.jpeg)
+![15.jpeg](15.jpeg)
 
 
 
