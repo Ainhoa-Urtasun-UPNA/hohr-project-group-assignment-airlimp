@@ -25,9 +25,7 @@ Firm's number of demand workers
 
 
 ### JOB POSTINGS:
-NAICS: 336310
 
-SOC: 51-2-31                        SOC: 11-1021                          SOC: 17-2141
 ![15.jpg](15.jpg)
 
 
